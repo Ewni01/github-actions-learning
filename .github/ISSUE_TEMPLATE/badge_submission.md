@@ -1,5 +1,5 @@
 ---
-name: 🎖️ Badge Submission
+name: 🎖️ My Badge Submission
 about: Submit your completed tasks for badge review
 title: "🎖️ Badge Submission - [Your Name]"
 labels: ['submission', 'pending-review']
